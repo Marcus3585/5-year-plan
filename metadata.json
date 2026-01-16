@@ -1,0 +1,5 @@
+{
+  "name": "Five-Year Plan Simulator",
+  "description": "A historical strategy game managing resources between Industry, Light Industry, and Agriculture from 1953-1962.",
+  "requestFramePermissions": []
+}
